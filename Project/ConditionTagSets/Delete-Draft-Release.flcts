@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment="Content that will be excluded starting with the March quarterly release"
+    Name="Delete_03"
+    BackgroundColor="Blue"
+    OriginalName="Delete_03" />
+  <ConditionTag
+    Comment="Content that will be excluded starting with the February maintenance release"
+    Name="Delete_02"
+    BackgroundColor="Red"
+    OriginalName="Delete_02" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Delete_05"
+    Comment="Content that will be excluded starting with the May maintenance release"
+    OriginalName="Delete_05" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Delete_04"
+    Comment="Content that will be excluded starting with the April maintenance release"
+    OriginalName="Delete_04" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Delete_01"
+    Comment="Content that will be excluded starting with the January maintenance release"
+    OriginalName="Delete_01" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Delete_06"
+    Comment="Content that will be excluded starting with the June quarterly release"
+    OriginalName="Delete_06" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Delete_07"
+    Comment="Content that will be excluded starting with the July maintenance release"
+    OriginalName="Delete_07" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Delete_11"
+    Comment="Content that will be excluded starting with the November quarterly release"
+    OriginalName="Delete_11" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="Delete_08"
+    Comment="Content that will be excluded starting with the August maintenance release"
+    OriginalName="Delete_08" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="Delete_09"
+    Comment="Content that will be excluded starting with the September quarterly release"
+    OriginalName="Delete_09" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Delete_10"
+    Comment="Content that will be excluded starting with the October maintenance release"
+    OriginalName="Delete_10" />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="Delete_12"
+    Comment="Content that will be excluded starting with the December maintenance release"
+    OriginalName="Delete_12" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Draft_01"
+    Comment="Content that will be included starting with the  June maintenance release"
+    OriginalName="Draft_01" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Draft_02"
+    Comment="Content that will be included starting with the  February maintenance release"
+    OriginalName="Draft_02" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Draft_03"
+    Comment="Content that will be included starting with the  March quarterly release"
+    OriginalName="Draft_03" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Draft_04"
+    Comment="Content that will be included starting with the  April maintenance release"
+    OriginalName="Draft_04" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Draft_05"
+    Comment="Content that will be included starting with the  May maintenance release"
+    OriginalName="Draft_05" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Draft_06"
+    Comment="Content that will be included starting with the  June quarterly release"
+    OriginalName="Draft_06" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Draft_07"
+    Comment="Content that will be included starting with the  July maintenance release"
+    OriginalName="Draft_07" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Draft_08"
+    Comment="Content that will be included starting with the  August maintenance release"
+    OriginalName="Draft_08" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="Draft_09"
+    Comment="Content that will be included starting with the  September quarterly release"
+    OriginalName="Draft_09" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="Draft_10"
+    Comment="Content that will be included starting with the  October maintenance release"
+    OriginalName="Draft_10" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Draft_11"
+    Comment="Content that will be included starting with the  November quarterly release"
+    OriginalName="Draft_11" />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="Draft_12"
+    Comment="Content that will be included starting with the  December maintenance release"
+    OriginalName="Draft_12" />
+</CatapultConditionTagSet>
