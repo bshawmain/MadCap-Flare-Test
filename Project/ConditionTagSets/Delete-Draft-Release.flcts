@@ -63,7 +63,7 @@
   <ConditionTag
     BackgroundColor="#ff0000"
     Name="Draft_01"
-    Comment="Content that will be included starting with the  June maintenance release"
+    Comment="Content that will be included starting with the  January maintenance release"
     OriginalName="Draft_01" />
   <ConditionTag
     BackgroundColor="#0000ff"
